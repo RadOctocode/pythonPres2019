@@ -1,0 +1,3 @@
+https://www.codecademy.com/
+https://learnxinyminutes.com/
+https://wiki.python.org/moin/BeginnersGuide/Programmers
