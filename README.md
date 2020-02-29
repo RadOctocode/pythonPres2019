@@ -1,6 +1,6 @@
 This contains the Code and presentation for the 2020 CoRE python presentation
 
-finalGame.py contains the final guess the number game\n
+finalGame.py contains the final guess the number game
 
 resources.txt contains some helpful python resources
 
